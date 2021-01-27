@@ -1,0 +1,25 @@
+Letter of Transmittal
+Executive Summary
+
+Introduction
+	Problem Statement
+    Scope and Objectives
+	Societal Impact 
+    Constraints/criteria/assumptions
+    functional requirements
+	
+Literature review
+	mechanical design
+    tactile sensing
+    data-driven grasping
+
+detailed design
+	conceptualization
+    hardware structure
+    testing and evaluation
+    calc/drawings/sketches
+    cost evaluation
+
+Conclusions and Recommendations
+
+Appendix
